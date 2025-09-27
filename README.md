@@ -105,19 +105,6 @@ Commands Used
 
 
 
-🖼️ Screenshots
-
-<img width="1919" height="557" alt="Screenshot 2025-09-26 182048" src="https://github.com/user-attachments/assets/c6b92b14-4423-48e9-b593-e49579c43b3e" />
-
-<img width="1919" height="966" alt="Screenshot 2025-09-26 182223" src="https://github.com/user-attachments/assets/dc99e0d6-876b-41de-9ef7-205f78e96017" />
-
-<img width="1919" height="970" alt="Screenshot 2025-09-26 182240" src="https://github.com/user-attachments/assets/ab8c617e-d964-4b46-b894-a8f63dddcdcd" />
-
-<img width="1919" height="980" alt="Screenshot 2025-09-26 182939" src="https://github.com/user-attachments/assets/3823482f-78c1-4a38-a258-0081d5cebd9a" />
-
-<img width="1919" height="966" alt="Screenshot 2025-09-26 183152" src="https://github.com/user-attachments/assets/ffc4d41d-21a0-4f92-ba5e-77f7f0acf3df" />
-
-<img width="1918" height="962" alt="Screenshot 2025-09-26 183202" src="https://github.com/user-attachments/assets/3a55ac6f-d7a3-476e-a018-147a17236719" />
 
 
 
