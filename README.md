@@ -94,13 +94,7 @@ Run the deployment script (Linux/macOS):
 
 Commands Used  
 
-<img width="1919" height="1019" alt="Screenshot 2025-09-26 190624" src="https://github.com/user-attachments/assets/0c2f3356-8e31-421c-a849-4cf8f31051c0" />
 
-<img width="1918" height="1025" alt="Screenshot 2025-09-26 190657" src="https://github.com/user-attachments/assets/feb82020-4c03-44f2-bd09-8f95a2266592" />
-
-<img width="1919" height="1024" alt="Screenshot 2025-09-26 190814" src="https://github.com/user-attachments/assets/7a6f52f1-8d45-44bc-9fcc-a7ebc37f3677" />
-
-<img width="1919" height="1016" alt="Screenshot 2025-09-26 190826" src="https://github.com/user-attachments/assets/504da8df-1f35-492d-bab9-233d592006eb" />
 
 
 
